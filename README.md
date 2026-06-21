@@ -1,16 +1,31 @@
-## Hi there 👋
+# Sansar Karki
 
-<!--
-**Sansar-Karki/Sansar-Karki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 14-year-old developer building products across iOS, web, backend systems, and applied machine learning.
 
-Here are some ideas to get you started:
+[Portfolio](https://sansarkarki.com) · [Clavix](https://getclavix.com) · [Instagram](https://www.instagram.com/sansar.mp4/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected work
+
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [Clavix](https://github.com/Sansar-Karki/clavix) | Turns overnight market changes into a holding-aware risk briefing. | SwiftUI, FastAPI, PostgreSQL |
+| [VarFoot](https://github.com/Sansar-Karki/varfoot) | Builds a measurable route from a player's current level to varsity benchmarks. | Next.js, TypeScript, Supabase, Gemini |
+| [WC2026 Predictor](https://github.com/Sansar-Karki/wc2026-predictor) | Prices World Cup matches and evaluates the model against market probabilities. | Python, Dixon-Coles, XGBoost |
+| [TradeCheck](https://github.com/Sansar-Karki/TradeCheck) | Turns trades into reviewed decisions through rules, screenshots, and daily reflection. | HTML, JavaScript, Supabase, PWA |
+
+## Coding this month
+
+<!-- HACKATIME_START -->
+**3,842 minutes coded this month and counting.**  
+<sub>Last refreshed June 21, 2026 at 11:17 UTC from Hackatime.</sub>
+<!-- HACKATIME_END -->
+
+The number above is generated from editor and terminal heartbeats, not commit counts. It refreshes hourly through GitHub Actions.
+
+## Current focus
+
+- Shipping Clavix and improving the evidence behind every risk score.
+- Training for varsity soccer and documenting Summermaxxing.
+- Building small systems that make complicated information easier to act on.
+
+For the full project stories, visit [sansarkarki.com](https://sansarkarki.com).
