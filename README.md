@@ -8,9 +8,9 @@ I am a 14-year-old developer building products across iOS, web, backend systems,
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| [Clavix](https://github.com/Sansar-Karki/clavix) | Turns overnight market changes into a holding-aware risk briefing. | SwiftUI, FastAPI, PostgreSQL |
-| [VarFoot](https://github.com/Sansar-Karki/varfoot) | Builds a measurable route from a player's current level to varsity benchmarks. | Next.js, TypeScript, Supabase, Gemini |
-| [WC2026 Predictor](https://github.com/Sansar-Karki/wc2026-predictor) | Prices World Cup matches and evaluates the model against market probabilities. | Python, Dixon-Coles, XGBoost |
+| [Clavix](https://github.com/jccollinsdev/clavix) | Turns overnight market changes into a holding-aware risk briefing. | SwiftUI, FastAPI, PostgreSQL |
+| [VarFoot](https://github.com/jccollinsdev/varfoot) | Builds a measurable route from a player's current level to varsity benchmarks. | Next.js, TypeScript, Supabase, Gemini |
+| [WC2026 Predictor](https://github.com/jccollinsdev/wc2026-predictor) | Prices World Cup matches and evaluates the model against market probabilities. | Python, Dixon-Coles, XGBoost |
 | [TradeCheck](https://github.com/Sansar-Karki/TradeCheck) | Turns trades into reviewed decisions through rules, screenshots, and daily reflection. | HTML, JavaScript, Supabase, PWA |
 
 ## Coding this month
