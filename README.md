@@ -8,6 +8,7 @@ I am a 14-year-old developer building products across iOS, web, backend systems,
 
 | Project | What it does | Stack |
 | --- | --- | --- |
+| [Cahier](https://devpost.com/software/cahier) | Turns your class handouts into a study app that drills the skill you keep missing. Built at the Blank Page Hackathon, Oct 2026. | React, TypeScript, Gemini, Vercel |
 | [Clavix](https://github.com/jccollinsdev/clavix) | Turns overnight market changes into a holding-aware risk briefing. | SwiftUI, FastAPI, PostgreSQL |
 | [VarFoot](https://github.com/Sansar-Karki/varfoot) | Builds a measurable route from a player's current level to varsity benchmarks. | Next.js, TypeScript, Supabase, Gemini |
 | [WC2026 Predictor](https://github.com/jccollinsdev/wc2026-predictor) | Prices World Cup matches and evaluates the model against market probabilities. | Python, Dixon-Coles, XGBoost |
